@@ -1,0 +1,12 @@
+{
+    "total_count": 1,
+    "updated_at": "2025-09-29T12:00:00Z",
+    "servers": [
+        {
+            "id": "microsoft-docs",
+            "name": "Microsoft Docs MCP Server",
+            "description": "Provides access to Microsoft documentation and API references",
+            "manifest_url": "https://learn.microsoft.com/api/mcp"
+        }
+    ]
+}
