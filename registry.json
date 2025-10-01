@@ -7,6 +7,12 @@
             "name": "Microsoft Docs MCP Server",
             "description": "Provides access to Microsoft documentation and API references",
             "manifest_url": "https://learn.microsoft.com/api/mcp"
+        },
+        {
+            "id": "awslabs.aws-documentation-mcp-server",
+            "name": "AWS Documentation MCP Server",
+            "description": "Provides access to AWS documentation and API references",
+            "manifest_url": "c:\\users\\mthistle\\appdata\\local\\programs\\python\\python312\\lib\\site-packages"
         }
     ]
 }
